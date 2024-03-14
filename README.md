@@ -5,9 +5,9 @@ This project conducts an analysis of causes of death spanning from 1999 to 2019 
 ## Code
 1. The 'project.ipynb' file contains comprehensive code encompassing feature selection, data visualization, PCA, classification, and regression tasks, also available as a published PDF for ease of reference.
 
-2.The 'loaddataset.py' file provides clear instructions on how to load the dataset from Kaggle.
+2. The 'loaddataset.py' file provides clear instructions on how to load the dataset from Kaggle.
 
-3.The 'preliminaryanalysis.ipynb' file conducts initial analysis on the entire dataset, preparing it for subsequent use in the main codebase.
+3. The 'preliminaryanalysis.ipynb' file conducts initial analysis on the entire dataset, preparing it for subsequent use in the main codebase.
 
 ## Installation Instructions
 To ensure smooth execution of the project code, ensure the following dependencies installed: 
