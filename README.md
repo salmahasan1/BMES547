@@ -19,3 +19,12 @@ To ensure smooth execution of the project code, ensure the following dependencie
 -import statsmodels.api as sm
 
 Additionally, utilize the 'bmes_ahmet_loader.py' file for seamless dataset retrieval from Kaggle.
+
+## Presentation
+The 'presentation.pptx' file serves as a slideshow summarizing the project, encompassing methods, results, and discussions for a comprehensive overview of the analysis.
+
+## Report
+The 'report.docx' file provides a detailed summary of the project, including sections on methods, results, discussions, related works, and references.
+
+## Index
+The 'index.yml' file serves as an index providing a concise summary of the project.
