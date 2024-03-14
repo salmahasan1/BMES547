@@ -9,8 +9,8 @@ The 'preliminaryanalysis.ipynb' file conducts initial analysis on the entire dat
 
 ## Installation Instructions
 To ensure smooth execution of the project code, ensure the following dependencies installed: 
-import matplotlib.pyplot as plt
-import seaborn as sns
+-import matplotlib.pyplot as plt
+-import seaborn as sns
 import numpy as np
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
