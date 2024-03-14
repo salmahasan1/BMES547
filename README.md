@@ -10,16 +10,10 @@ The 'preliminaryanalysis.ipynb' file conducts initial analysis on the entire dat
 ## Installation Instructions
 To ensure smooth execution of the project code, ensure the following dependencies installed: 
 
--import matplotlib.pyplot as plt
+-import matplotlib.pyplot as plt, import seaborn as sns, import numpy as np, import pandas as pd
 
--import seaborn as sns
-import numpy as np
-import pandas as pd
-from sklearn.preprocessing import StandardScaler
-from sklearn.decomposition import PCA
-from sklearn.model_selection import cross_val_score
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.linear_model import LinearRegression
-import statsmodels.api as sm
+-from sklearn.preprocessing import StandardScaler, from sklearn.decomposition import PCA, from sklearn.model_selection import cross_val_score, from sklearn.ensemble import RandomForestClassifier, from sklearn.linear_model import LinearRegression
+
+-import statsmodels.api as sm
 
 Additionally, utilize the 'bmes_ahmet_loader.py' file for seamless dataset retrieval from Kaggle.
